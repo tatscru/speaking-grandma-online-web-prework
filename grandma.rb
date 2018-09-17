@@ -15,6 +15,7 @@
 def speak_to_grandma(string)
   if string.upcase
     puts "HUH?! SPEAK UP, SONNY"
+  end
 end
 
 #     puts "I LOVE YOU TOO PUMPKIN!"
