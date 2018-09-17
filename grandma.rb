@@ -22,14 +22,5 @@ def speak_to_grandma(string)
   end
 end
 
-#     puts "I LOVE YOU TOO PUMPKIN!"
-#   elsif speak_to_grandma
-#     puts 
-#   elseif speak_to_grandma
-#     puts "HUH?! SPEAK UP, SONNY!"
-#   elseif speak_to_grandma
-#     puts "HUH?! SPEAK UP, SONNY"
-#   else speak_to_grandma
-#     puts "NO, NOT SINCE 1938!"
-# end
+
   
